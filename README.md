@@ -10,13 +10,11 @@ AI-driven analytics and dashboard automation
 
 Real-world projects in Retail, Sales Forecasting, and Churn Prediction
 
-📌 Resume Download:
-Download Resume (PDF)
 
 📫 Connect with me:
 
-LinkedIn : 
+LinkedIn : https://www.linkedin.com/in/gaurav-bisht-5ba740284
 
-GitHub
+GitHub : https://github.com/Grav-D-Scientist-08
 
-YouTube – Data Dojo
+YouTube : https://www.youtube.com/@DataDojo779
